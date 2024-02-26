@@ -33,7 +33,7 @@
 <p align="center">
 
 <a href="">
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ref = 'https://www.linkedin.com/in/sonia-shah-54417b2b2/' />
 </a>
 
 <a href="">
